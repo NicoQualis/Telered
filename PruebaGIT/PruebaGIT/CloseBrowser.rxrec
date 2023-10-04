@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="c487c15d-b84d-4c74-b1bf-89f24c7ec096"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="PruebaGIT">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="a9e5a16f-8747-463a-877b-ed8c4c94b8a6">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="7436e3fe-f2dc-4754-868e-33a8dd5c75fe"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='iexplore']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="ff805886-954e-4bb7-b02c-d8432a5c1548"
+	name="PruebaGITRepository"
+	relativepath="PruebaGITRepository.rxrep">
+		<codegen
+		classname="PruebaGITRepository"
+		namespace="PruebaGIT">
+		</codegen>
+		<rootfolder
+		id="d2a31605-e217-4c59-a675-a568659b2f96"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
