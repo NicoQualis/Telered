@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="9efc33f8-f738-472e-8545-ffb175e13ffb"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="PruebaGIT">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="ff805886-954e-4bb7-b02c-d8432a5c1548"
+	name="PruebaGITRepository"
+	relativepath="PruebaGITRepository.rxrep">
+		<codegen
+		classname="PruebaGITRepository"
+		namespace="PruebaGIT">
+		</codegen>
+		<rootfolder
+		id="d2a31605-e217-4c59-a675-a568659b2f96"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

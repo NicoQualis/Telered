@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="PruebaGIT"
+      id="3e6ac8a7-9ff8-487c-9a1f-88fc13623822"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="PruebaGIT"
+      id="3e6ac8a7-9ff8-487c-9a1f-88fc13623822"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
